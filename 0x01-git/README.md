@@ -1,1 +1,1 @@
-alx pre course
+my second readme updated
